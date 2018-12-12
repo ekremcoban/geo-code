@@ -1,0 +1,89 @@
+.Container {
+  margin-top: 20px;
+  position: absolute;
+  width: 50%;
+  height: 80%;
+  background-color: red;
+}
+
+.Row {
+  position: relative;
+  height: 800px;
+  box-sizing: border-box;
+}
+
+.ColumnLeft {
+  box-sizing: border-box;
+  float: left;
+  width: 230px;
+  height: 750px;
+  padding: 10px;
+  background-color: yellow;
+}
+
+.ColumnRight {
+  box-sizing: border-box;
+  float: left;
+  width: 70%;
+  height: 750px;
+  padding: 10px;
+  background-color: orange;
+}
+
+.TextFieldLeft {
+  width: 300px;
+  position: absolute;
+  height: 600px;
+}
+
+.TextFieldRight {
+  width: 600px;
+  position: absolute;
+  height: 600px;
+}
+
+/* @media (min-width: 500px) {
+  .Container {
+    margin-top: 20px;
+    position: absolute;
+    width: 70%;
+    height: 800px;
+    background-color: red;
+  }
+  
+  .Row {
+    position: relative;
+    height: 600px;
+    box-sizing: border-box;
+  }
+  
+  .ColumnLeft {
+    box-sizing: border-box;
+    float: left;
+    width: 30%;
+    height: 450px;
+    padding: 10px;
+    background-color: aqua;
+  }
+  
+  .ColumnRight {
+    box-sizing: border-box;
+    float: left;
+    width: 70%;
+    height: 450px;
+    padding: 10px;
+    background-color: rebeccapurple;
+  }
+
+  .TextFieldLeft {
+    width: 200px;
+    position: absolute;
+    height: 400px;
+  }
+  
+  .TextFieldRight {
+    width: 400px;
+    position: absolute;
+    height: 100%;
+  }
+} */
