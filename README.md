@@ -1,4 +1,4 @@
-YOU HAVE TO API KEY FROM GOOGLE FOR (geocode class)
+YOU HAVE TO API KEY FROM GOOGLE (apikey in geocode class)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
